@@ -2,7 +2,7 @@
 
 <img src="estudos.png" width="310"/><br/>
 
-Organizar Estudos: [Acesse o aplicativo aqui](http://www.exemplo.com)
+Organizar Estudos: [Acesse o aplicativo aqui]([http://www.exemplo.com](https://katarine-albuquerque.rf.gd/organizar-estudos/index.html))
 
 ### I. Sobre o projeto
 
@@ -17,4 +17,5 @@ Organizar Estudos: [Acesse o aplicativo aqui](http://www.exemplo.com)
 ### II. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
+
 * Linkedin: [/katarine-albuquerque](https://www.linkedin.com/in/katarine-albuquerque/)
