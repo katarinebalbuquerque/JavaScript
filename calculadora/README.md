@@ -2,7 +2,7 @@
 
 <img src="calculadora.png" width="310"/><br/>
 
-Calculadora: [Acesse o aplicativo aqui](http://www.exemplo.com)
+Calculadora: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd/calculadora/index.html)
 
 ### I. Sobre o projeto
 
@@ -17,4 +17,5 @@ Calculadora: [Acesse o aplicativo aqui](http://www.exemplo.com)
 ### II. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
+
 * Linkedin: [/katarine-albuquerque](https://www.linkedin.com/in/katarine-albuquerque/)
