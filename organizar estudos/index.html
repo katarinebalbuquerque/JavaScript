@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="style.css">
+      <title>Organizar Estudos</title>
+</head>
+
+<body>
+      <header id="header">
+            <h1>Organizar Estudos</h1>
+            <h6>KA Estudos@2025</h6>
+      </header>
+      <div id="container">
+            <section id="context">
+                  <section id="Info">
+                        <select name="semana" id="semana">
+                              <option value="selecione">Dia da semana...</option>
+                              <option value="domingo">domingo</option>
+                              <option value="segunda-feira">segunda-feira</option>
+                              <option value="terça-feira">terça-feira</option>
+                              <option value="quarta-feira">quarta-feira</option>
+                              <option value="quinta-feira">quinta-feira</option>
+                              <option value="sexta-feira">sexta-feira</option>
+                              <option value="sábado">sábado</option>
+                        </select>
+                        <input type="text" placeholder="Disciplina" minlength="35" id="disciplina" />
+                        <button onclick="adicionar()" id="adicionar">Adicionar</button>
+                  </section>
+                  <section id="mensagem">
+                        <p id="aviso"></p>
+                  </section>
+                  <section id="listaTarefas">
+                        <table id="tarefas"></table>
+                  </section>
+            </section>
+      </div>
+      <script src="script.js"></script>
+</body>
+
+</html>

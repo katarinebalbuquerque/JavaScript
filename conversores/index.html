@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="style.css">
+      <title>Conversores</title>
+</head>
+<body>
+      <div id="container">
+            <header id="header">
+                  <h1>KA</h1>
+                  <h2>Conversores</h2>
+            </header>
+            <section id="content">
+                  <article class="conversor" id="temperatura">
+                        <h3>Conversor de Temperatura</h3>
+                        <input type="text" id="c" placeholder="Celcius..."/>
+                        <button onclick="toFahrenheitKelvin()">Converter</button>
+                        <h5>Celsius para Fahrenheit</h5>
+                        <p id="resp0">0</p>
+                        <h5>Celsius para Kelvin</h5>
+                        <p id="resp1">0</p>
+                  </article>
+                  <article class="conversor" id="moedas">
+                        <h3>Conversor de Moedas</h3>                        
+                        <input type="text" id="brl" placeholder="Real..."/>
+                        <input type="text" id="dolar" placeholder="Dólar..."/>
+                        <input type="text" id="euro" placeholder="Euro..."/>
+                        <button onclick="toDolarEuro()">Converter</button>
+                        <h5>Real para Dólar</h5>
+                        <p id="resp2">0</p>
+                        <h5>Real para Euro</h5>
+                        <p id="resp3">0</p>
+                  </article>
+                  <article class="conversor" id="medidas">
+                        <h3>Conversor de Medidas</h3>
+                        <h5>Quilômetro para Milhas</h5>
+                        <input type="text" id="km" placeholder="Km..."/>
+                        <button onclick="kmToMilhas()">Converter</button>
+                        <p id="resp4">0</p>
+                        <h5>Metro para Centímetros</h5>
+                        <input type="text" id="metro" placeholder="Metro..."/>
+                        <button onclick="metrosToCm()">Converter</button>
+                        <p id="resp5">0</p>
+                  </article>
+                  <article class="conversor" id="tempo">
+                        <h3>Conversor de Tempo</h3>                        
+                        <input type="text" id="hora" placeholder="Hora..."/>
+                        <button onclick="toMinutoSegundos()">Converter</button>
+                        <h5>Horas para Minutos</h5>
+                        <p id="resp6">0</p>
+                        <h5>Hora para Segundos</h5>
+                        <p id="resp7">0</p>
+                  </article>
+                  <article class="conversor" id="numerico">
+                        <h3>Conversor de Bases Numéricas</h3>                        
+                        <input type="text" id="numero" placeholder="Número..."/>
+                        <button onclick="calculoBaseNumerica()">Converter</button>
+                        <h5>Decimal para Binário</h5>
+                        <p id="resp8">0</p>
+                        <h5>Decimal para Hexadecimal</h5>
+                        <p id="resp9">0</p>
+                  </article>
+            </section>
+            <footer id="footer">
+                  <h6>KA Conversores@2025</h6>
+            </footer>
+      </div>
+      <script src="script.js"></script>
+</body>
+</html>

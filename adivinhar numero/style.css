@@ -1,0 +1,65 @@
+* {
+      margin: 0;
+      font-family: 'Gill Sans MT', sans-serif;
+}
+
+h1, h6 {
+      margin: 10px 0;
+}
+
+h1 {
+      color: #ff4500;
+      font-size: xx-large;
+}
+
+h6 {
+      font-size: small;
+}
+
+body {
+      width: 100%;
+      height: 100vh;
+      background-color: #dcdcdc;
+}
+
+#container {
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;  
+}
+
+#content {
+      width: 300px;
+      height: auto;
+      padding: 10px;
+      background-color: #FFF;
+      text-align: center;
+      line-height: 22px;
+      border-radius: 10px;
+}
+
+button,
+input {
+      border-radius: 5px;
+}
+
+button {
+      width: auto;
+      height: 40px;
+      color: #FFF;
+      background-color: #ff4500;
+      border: 1px solid #ff4500;      
+}
+
+input {
+      width: 100px;
+      height: 40px;
+      padding: 0 5px;
+      border: 1px solid #ff4500; 
+}
+
+#mensagem {
+      margin-top: 10px;
+}

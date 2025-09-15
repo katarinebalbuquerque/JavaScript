@@ -1,0 +1,20 @@
+# Organizar Estudos
+
+<img src="estudos.png" width="310"/><br/>
+
+Organizar Estudos: [Acesse o aplicativo aqui](http://www.exemplo.com)
+
+### I. Sobre o projeto
+
+* Permite agendar disciplinas associadas a dias da semana.
+
+* Utiliza JavaScript para adicionar e remover itens dinamicamente.
+
+* Facilita o planejamento de rotina de estudos de forma visual e prática.
+
+* Manipulação de listas e eventos no front-end.
+
+### II. Contatos
+
+* E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
+* Linkedin: [/katarine-albuquerque](https://www.linkedin.com/in/katarine-albuquerque/)
