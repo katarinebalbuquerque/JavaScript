@@ -16,7 +16,7 @@ Lista de Tarefas: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd/
 
 ### II. Diagrama de Caso de Uso
 
-<img src="image.png" width="310"/>
+<img src="image1.png" width="310"/>
 
 ### II. Contatos
 
