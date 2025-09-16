@@ -14,7 +14,11 @@ Conversores: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd/conve
 
 * Organiza os conversores em categorias visuais, facilitando a navegação e usabilidade.
 
-### II. Contatos
+### II. Diagrama de Caso de Uso
+
+<img src="image.png" width="310"/>
+
+### III. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 
