@@ -14,7 +14,11 @@ Tela de Login: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd/log
 
 - Exibição de Mensagens: Mostra mensagens dinâmicas na tela para informar o resultado das ações.
 
-### II. Contatos
+### II. Diagrama de Caso de Uso:
+
+<img src="LoginDiagramaCasoDeUso.png" width="310"/>
+
+### III. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 
