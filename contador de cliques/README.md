@@ -16,7 +16,11 @@ Contador de cliques: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.
 
 * Uso de eventos, manipulação do DOM e variáveis.
 
-### II. Contatos
+### II. Diagrama de Caso de Uso
+
+<img src="image.png" width="310"/>
+
+### III. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 
