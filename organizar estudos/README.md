@@ -14,7 +14,11 @@ Organizar Estudos: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd
 
 * Manipulação de listas e eventos no front-end.
 
-### II. Contatos
+### II. Diagrama de Caso de Uso
+
+<img src="image.png" width="310"/>
+
+### III. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 
