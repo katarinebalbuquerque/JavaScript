@@ -14,7 +14,11 @@ Calculadora: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd/calcu
 
 * Com eventos, funções e manipulação de dados no front-end.
 
-### II. Contatos
+### II. Diagrama de Caso de Uso
+
+<img src="image.png" width="310"/>
+
+### III. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 
