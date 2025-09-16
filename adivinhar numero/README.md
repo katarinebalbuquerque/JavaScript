@@ -12,7 +12,11 @@ Advinhar Número: [Acesse o aplicativo aqui](https://katarine-albuquerque.rf.gd/
 
 * Utiliza condicionais e entrada de dados.
 
-### II. Contatos
+### II. Diagrama de Caso de Uso
+
+<img src="image.png" width="310"/>
+
+### III. Contatos
 
 * E-mail: [kba.2879@gmail.com](mailTo:kba.2879@gmail.com)
 
