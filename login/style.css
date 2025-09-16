@@ -1,0 +1,105 @@
+body {
+      width: 100%;
+      height: 100vh;
+      margin: 0;
+      overflow-y: hidden;
+      background-color: #dcdcdc;
+}
+
+#container {
+      width: 100%;
+      height: 100%;
+      padding: 10px 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+}
+
+#header {
+      width: 100%;
+      height: 150px;
+}
+
+#header h1 {
+      font-family: "Brush Script MT";
+      font-size: 55px;
+}
+
+#content {
+      width: 620px;
+      height: auto;
+      display: flex;
+      gap: 20px;
+      justify-content: center;
+      align-items: flex-end;
+      border-top: 2px solid #ff4500;
+      background-color: #FFF;
+      padding: 10px;
+}
+
+#add {
+      background-color: #ff4500;
+      border-radius: 8px;
+}
+
+#form, #add {
+      width: 100%;
+      height: auto;
+      padding: 5px;
+      display: flex;
+      flex-direction: column;
+}
+
+#form h2 {
+      color: #ff4500;
+}
+
+#add h2 {
+      width: 100%;
+      font-size: large;
+      color: #FFF;
+}
+
+#form input, #add input {
+      height: 40px;
+      font-size: large;
+      padding: 0;
+      margin: 2.5 10px;
+}
+
+#form .btn, #add .btn {
+      cursor: pointer;
+}
+
+#mensagem {
+      width: auto;
+      height: 50px;
+      margin-top: 10px;
+      text-align: center;
+      background-color: #ff4500;
+      border-radius: 8px;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+}
+
+#mensagem h3 {
+      color: #FFF;
+      padding: 5px 30px;
+}
+
+@media (max-width: 780px) {
+      body {
+            overflow-y: auto;
+      }
+      body, #container {
+            height: auto;            
+      }      
+      #content {
+            width: 310px;
+            flex-wrap: wrap;
+      }
+}

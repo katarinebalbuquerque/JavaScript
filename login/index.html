@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="style.css">
+      <title>Login</title>
+</head>
+
+<body>
+      <div id="container">
+            <header id="header">
+                  <h1>Login</h1>
+            </header>
+            <section id="content">
+                  <section id="form">
+                        <h2>Acessar aqui!</h2>
+                        <input type="text" id="usuario" placeholder="Usuário" onclick="limparMensagem()">
+                        <input type="password" id="senha" placeholder="senha" onclick="limparMensagem()">
+                        <button class="btn" onclick="logar()">Enviar</button>
+                  </section>
+                  <section id="add">
+                        <h2>Cadastre-se para acessar!</h2>
+                        <input type="text" id="addUsuario" placeholder="Usuário" onclick="limparMensagem()">
+                        <input type="password" id="addSenha" placeholder="senha" onclick="limparMensagem()">
+                        <button class="btn" onclick="adicionar()">Salvar</button>
+                  </section>                  
+            </section>
+            <section id="mensagem">
+                  <!-- Mensagens de Retorno -->
+            </section>
+      </div>
+      <script src="script.js"></script>
+</body>
+
+</html>
